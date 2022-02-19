@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Haamthelord
-- 👀 I’m interested in Ai & Robo ...
+## ABOUT ME
+
+- 👋 Hi, I’m [@Haamthelord](t.me/Haamthelord_Dev)
+- 👀 I’m interested in Ai & Robotics ...
 - 🌱 I’m currently learning To live
 - 💞️ I’m looking to collaborate on Full Stack development.
-- 📫 How to reach me ...t.me/Haamthelord_Dev
+- 📫 Help Me to Reach [My Aim](https://t.me/Haamthelord_Dev)
+## More
+Coming Soon 😅
 
 <!---
 Haamthelord1/Haamthelord1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
