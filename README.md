@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-- 👋 Hi, I’m [@Haamthelord](t.me/Haamthelord_Dev)
+- 👋 Hi, I’m [@Haamthelord](https://t.me/Haamthelord_Dev)
 - 👀 I’m interested in Ai & Robotics ...
 - 🌱 I’m currently learning To live
 - 💞️ I’m looking to collaborate on Full Stack development.
